@@ -1,9 +1,14 @@
 ---
 description: Welcome to your team’s developer platform
+cover: .gitbook/assets/Captura de tela 2025-10-05 204759.png
+coverY: 196.33448342989914
 layout:
   width: wide
+  cover:
+    visible: true
+    size: hero
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -13,12 +18,12 @@ layout:
   pagination:
     visible: false
   metadata:
-    visible: true
+    visible: false
 ---
 
-# Developer Platform
+# Partido da União Progressista (PUP)
 
-<h4 align="center"><strong>Partido da União Progressista (PUP)</strong></h4>
+<figure><img src=".gitbook/assets/Captura de tela 2025-10-05 205533.png" alt="" width="308"><figcaption></figcaption></figure>
 
 <p align="center">Campanha Eleitoral – Paleto Bay, Dana Verso</p>
 
